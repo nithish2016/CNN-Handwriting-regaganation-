@@ -55,10 +55,6 @@ http://127.0.0.1:5000/
   - `index.html`: Upload form page.
   - `result.html`: Prediction result display page.
 
-## License
-
-This project does not include a license. Please contact the author for usage permissions.
-
 ## Author
 
-Created by the project developer.
+Created with ❤️
