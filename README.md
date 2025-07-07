@@ -3,6 +3,14 @@
 ## Description
 This project is a Flask-based web application that allows users to upload images of handwritten digits and predicts the digit using a pre-trained TensorFlow/Keras model. The application preprocesses the uploaded image, feeds it to the model, and displays the predicted digit on a result page.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/58e78ed8-98b1-4d26-9f71-1f3ddc40d279)
+
+![image](https://github.com/user-attachments/assets/37f67aae-f9eb-4738-9ff4-3586995f408f)
+
+
+
 ## Features
 - Upload an image of a handwritten digit via a simple web interface.
 - Image preprocessing including grayscale conversion, inversion, resizing, and normalization.
