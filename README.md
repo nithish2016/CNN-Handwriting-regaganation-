@@ -63,6 +63,3 @@ http://127.0.0.1:5000/
   - `index.html`: Upload form page.
   - `result.html`: Prediction result display page.
 
-## Author
-
-Created with ❤️
